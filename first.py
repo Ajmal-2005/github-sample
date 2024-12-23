@@ -1,1 +1,2 @@
 print("kewin")
+print("bot")
